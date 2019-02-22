@@ -5,7 +5,7 @@
 * 抓取后仅保存为txt
 
 实际使用：
-* 在上述小说网站找到需要的小说，比如 《盾之勇者成名录》(https://www.23qb.net/book/1059/) 其链接为https://www.23qb.net/book/1059/ 则使用如下命令下载改小说全文：
+* 在上述小说网站找到需要的小说，比如 [《盾之勇者成名录》](https://www.23qb.net/book/1059/) 其链接为 https://www.23qb.net/book/1059/ 则使用如下命令下载改小说全文：
     >python novelcatch.py 1059
 * 可以使用完整章节名指定开始下载的章节，比如：
     >python novelcatch.py 1059 "第十八卷 十三话 转生者"
